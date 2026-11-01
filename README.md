@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=200&section=header&text=Gopikrishna%20Gummadidala&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Senior%20Full-Stack%20Engineer%20%C2%B7%20TypeScript%20%C2%B7%20.NET%20%C2%B7%20AI%20Agents&descSize=18&descAlignY=56" alt="Gopikrishna Gummadidala" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=200&section=header&text=Gopikrishna%20Gummadidala&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Senior%20Full-Stack%20Engineer%20%C2%B7%20TypeScript%20%C2%B7%20Node.js%20%C2%B7%20Angular%20%C2%B7%20React%20%C2%B7%20.NET%20%C2%B7%20AI%20Agents&descSize=16&descAlignY=56" alt="Gopikrishna Gummadidala" width="100%" />
 </p>
 
 <p align="center">
