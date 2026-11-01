@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" viewBox="0 0 480 360" role="img" aria-label="Core skills">
+<style>
+  .bg { fill: #ffffff; stroke: #d0d7de; }
+  .title { fill: #0369a1; font: 600 17px 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; }
+  .label { fill: #1f2328; font: 500 12.5px 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; }
+  .muted { fill: #57606a; font: 500 11px 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; }
+  .grid { fill: none; stroke: #d0d7de; }
+  .track { fill: #eaeef2; }
+  @media (prefers-color-scheme: dark) {
+    .bg { fill: #0d1117; stroke: #30363d; }
+    .title { fill: #38bdf8; }
+    .label { fill: #e6edf3; }
+    .muted { fill: #8b949e; }
+    .grid { stroke: #30363d; }
+    .track { fill: #21262d; }
+  }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  .bar { transform-box: fill-box; transform-origin: left center; animation: fill 1s cubic-bezier(.2,.8,.2,1) both; }
+  @keyframes fill { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+</style>
+<defs>
+  <linearGradient id="accent" x1="0" x2="1" y1="0" y2="0">
+    <stop offset="0" stop-color="#0ea5e9"/><stop offset="1" stop-color="#8b5cf6"/>
+  </linearGradient>
+</defs>
+<rect class="bg" x="0.5" y="0.5" width="479" height="359" rx="10"/>
+<text class="title" x="24" y="36">Core skills</text>
+<text class="label" x="24" y="74">Angular</text>
+<rect class="track" x="200" y="64" width="224" height="12" rx="6"/>
+<rect class="bar" style="animation-delay:0.00s" x="200" y="64" width="212.8" height="12" rx="6" fill="url(#accent)"/>
+<text class="muted" x="434" y="74">95%</text>
+<text class="label" x="24" y="102.5">TypeScript</text>
+<rect class="track" x="200" y="92.5" width="224" height="12" rx="6"/>
+<rect class="bar" style="animation-delay:0.08s" x="200" y="92.5" width="212.8" height="12" rx="6" fill="url(#accent)"/>
+<text class="muted" x="434" y="102.5">95%</text>
+<text class="label" x="24" y="131">C# / .NET</text>
+<rect class="track" x="200" y="121" width="224" height="12" rx="6"/>
+<rect class="bar" style="animation-delay:0.16s" x="200" y="121" width="206.1" height="12" rx="6" fill="url(#accent)"/>
+<text class="muted" x="434" y="131">92%</text>
+<text class="label" x="24" y="159.5">React / Next.js</text>
+<rect class="track" x="200" y="149.5" width="224" height="12" rx="6"/>
+<rect class="bar" style="animation-delay:0.24s" x="200" y="149.5" width="190.4" height="12" rx="6" fill="url(#accent)"/>
+<text class="muted" x="434" y="159.5">85%</text>
+<text class="label" x="24" y="188">Node.js / NestJS</text>
+<rect class="track" x="200" y="178" width="224" height="12" rx="6"/>
+<rect class="bar" style="animation-delay:0.32s" x="200" y="178" width="190.4" height="12" rx="6" fill="url(#accent)"/>
+<text class="muted" x="434" y="188">85%</text>
+<text class="label" x="24" y="216.5">SQL Server / PostgreSQL</text>
+<rect class="track" x="200" y="206.5" width="224" height="12" rx="6"/>
+<rect class="bar" style="animation-delay:0.40s" x="200" y="206.5" width="190.4" height="12" rx="6" fill="url(#accent)"/>
+<text class="muted" x="434" y="216.5">85%</text>
+<text class="label" x="24" y="245">AI agents (Claude, OpenAI)</text>
+<rect class="track" x="200" y="235" width="224" height="12" rx="6"/>
+<rect class="bar" style="animation-delay:0.48s" x="200" y="235" width="190.4" height="12" rx="6" fill="url(#accent)"/>
+<text class="muted" x="434" y="245">85%</text>
+<text class="label" x="24" y="273.5">Azure / AWS</text>
+<rect class="track" x="200" y="263.5" width="224" height="12" rx="6"/>
+<rect class="bar" style="animation-delay:0.56s" x="200" y="263.5" width="168.0" height="12" rx="6" fill="url(#accent)"/>
+<text class="muted" x="434" y="273.5">75%</text>
+<text class="label" x="24" y="302">Docker / CI/CD</text>
+<rect class="track" x="200" y="292" width="224" height="12" rx="6"/>
+<rect class="bar" style="animation-delay:0.64s" x="200" y="292" width="168.0" height="12" rx="6" fill="url(#accent)"/>
+<text class="muted" x="434" y="302">75%</text>
+<text class="label" x="24" y="330.5">Python</text>
+<rect class="track" x="200" y="320.5" width="224" height="12" rx="6"/>
+<rect class="bar" style="animation-delay:0.72s" x="200" y="320.5" width="145.6" height="12" rx="6" fill="url(#accent)"/>
+<text class="muted" x="434" y="330.5">65%</text>
+</svg>

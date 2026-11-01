@@ -13,6 +13,7 @@
   <a href="https://linkedin.com/in/gopikrishna-gummadidala"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:gopikrishna.gummadidala@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Open%20to%20work-22C55E?style=for-the-badge" alt="Open to work" />
+  <img src="https://img.shields.io/badge/Available%20for%20freelance-F59E0B?style=for-the-badge" alt="Available for freelance" />
 </p>
 
 ---
@@ -24,8 +25,20 @@ I build scalable enterprise applications across JavaScript and .NET — and, mor
 - 🚢 **Now:** Software Engineer at **Softship GmbH** (WiseTech Global group), Hamburg, building enterprise liner-shipping software used by 120+ clients worldwide
 - 🤖 **Proudest build:** an autonomous **AI bug-tracking agent** (Claude + OpenAI, NestJS orchestration, Python) that cut manual triage by **~50%**
 - ⚡ **Performance:** led an AngularJS → Angular/React migration: **~40%** faster load time, **~60%** smaller bundle
+- 💼 **Freelance:** delivered many freelance projects alongside full-time roles, end to end from requirements to production
 - 🎓 Microsoft certified: **MCP · MCSA · MCSD**
-- 🇪🇺 EU Permanent Residence · available immediately
+- 🇪🇺 EU Permanent Residence · available immediately for full-time roles and freelance projects
+
+### 🤝 Hire me for freelance work
+
+I'm available for freelance and contract projects, remote or on-site in Hamburg. Typical engagements:
+
+- **Full-stack web apps:** Angular, React or Next.js front ends on .NET or Node.js/NestJS APIs
+- **AI agents & LLM integrations:** Claude/OpenAI-powered automation, MCP tools, internal copilots
+- **Modernization:** AngularJS → Angular/React migrations, performance tuning, legacy .NET upgrades
+- **APIs & integrations:** REST/GraphQL, payments, messaging with RabbitMQ
+
+📬 [Email me](mailto:gopikrishna.gummadidala@gmail.com) or reach out on [LinkedIn](https://linkedin.com/in/gopikrishna-gummadidala).
 
 ### 🛠️ Tech I work with
 
@@ -43,6 +56,13 @@ I build scalable enterprise applications across JavaScript and .NET — and, mor
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/NgXS-3F51B5?style=flat-square" alt="NgXS" />
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" alt="Blazor" />
+</p>
+
+### 📊 Skills at a glance
+
+<p align="center">
+  <img src="assets/skills-radar.svg" alt="Skill areas radar chart" width="49%" />
+  <img src="assets/skills-bars.svg" alt="Core skills bar chart" width="49%" />
 </p>
 
 ### 🚀 Featured repos
