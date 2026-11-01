@@ -90,7 +90,13 @@ I'm available for freelance and contract projects, remote or on-site in Hamburg.
 
 ### 💬 Ask me about
 
-Production LLM agents · Angular ↔ React migrations · .NET APIs at scale · microservices with RabbitMQ · runtime UI customization frameworks
+- 🤖 **AI engineering:** production LLM agents, Claude & OpenAI integrations, MCP tools, internal copilots
+- 🎨 **Frontend:** React, Next.js, Angular, TypeScript, Tailwind CSS, runtime UI customization frameworks
+- ⚙️ **Backend:** Node.js, NestJS, C# / .NET, Python / FastAPI, REST & GraphQL APIs at scale
+- 🏗️ **Architecture:** microservices, event-driven systems with RabbitMQ, legacy modernization (AngularJS → Angular/React)
+- 🗄️ **Data:** SQL Server, PostgreSQL, MongoDB, Redis, Elasticsearch
+- ☁️ **Cloud & DevOps:** Azure, AWS, GCP, Docker, Terraform, CI/CD
+- 🧪 **Testing:** Playwright, Cypress, Jest, NUnit, TDD
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=100&section=footer" alt="" width="100%" />
