@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=200&section=header&text=Gopikrishna%20Gummadidala&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Engineer%20%C2%B7%20AI%20Agent%20Builder&descSize=18&descAlignY=56" alt="Gopikrishna Gummadidala" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=200&section=header&text=Gopikrishna%20Gummadidala&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Senior%20Full-Stack%20Engineer%20%C2%B7%20TypeScript%20%C2%B7%20.NET%20%C2%B7%20AI%20Agents&descSize=18&descAlignY=56" alt="Gopikrishna Gummadidala" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://gopikrishna-gummadidala.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=640&lines=13%2B+years+shipping+enterprise+software;Angular+%C2%B7+React+%C2%B7+Next.js+%E2%86%94+.NET+%C2%B7+NestJS;Building+production+AI+agents+with+Claude+%26+OpenAI;Based+in+Hamburg%2C+Germany+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=640&lines=13%2B+years+shipping+enterprise+software;TypeScript+%C2%B7+Node.js+%C2%B7+Angular+%C2%B7+React+%C2%B7+.NET;Building+production+AI+agents+with+Claude+%26+OpenAI;Based+in+Hamburg%2C+Germany+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing intro" />
   </a>
 </p>
 
@@ -20,14 +20,14 @@
 
 ### 👋 About me
 
-I build scalable enterprise applications across JavaScript and .NET — and, more recently, the AI agents that automate the work around them. I favor clean, boring architecture, lead cross-functional teams, and ship across REST, GraphQL, microservices and IoT integrations.
+I build scalable enterprise applications across TypeScript, JavaScript, Node.js and .NET — and increasingly, AI-powered agents that automate complex engineering workflows. I value clean, maintainable architecture and pragmatic engineering decisions, lead cross-functional teams, and ship across REST, GraphQL, microservices, event-driven systems and IoT integrations.
 
-- 🚢 **Now:** Software Engineer at **Softship GmbH** (WiseTech Global group), Hamburg, building enterprise liner-shipping software used by 120+ clients worldwide
+- 🚢 **Most recently:** Software Engineer at **Softship GmbH** (WiseTech Global group), Hamburg, building enterprise liner-shipping software used by 120+ clients worldwide
 - 🤖 **Proudest build:** an autonomous **AI bug-tracking agent** (Claude + OpenAI, NestJS orchestration, Python) that cut manual triage by **~50%**
 - ⚡ **Performance:** led an AngularJS → Angular/React migration: **~40%** faster load time, **~60%** smaller bundle
-- 💼 **Freelance:** delivered many freelance projects alongside full-time roles, end to end from requirements to production
+- 💼 **Freelance:** delivered multiple freelance projects alongside full-time roles, owning the full lifecycle from requirements and architecture to deployment and production support
 - 🎓 Microsoft certified: **MCP · MCSA · MCSD**
-- 🇪🇺 EU Permanent Residence · available immediately for full-time roles and freelance projects
+- 📍 Hamburg, Germany · German Permanent Residence · available immediately for full-time roles, freelance and contract projects
 
 ### 🤝 Hire me for freelance work
 
@@ -57,6 +57,17 @@ I'm available for freelance and contract projects, remote or on-site in Hamburg.
   <img src="https://img.shields.io/badge/NgXS-3F51B5?style=flat-square" alt="NgXS" />
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" alt="Blazor" />
 </p>
+
+| Category | Technologies |
+| --- | --- |
+| **Languages** | TypeScript, JavaScript, C# |
+| **Frontend** | Angular, React, Next.js |
+| **Backend** | Node.js, NestJS, ASP.NET Core |
+| **AI engineering** | Claude, OpenAI, MCP, AI agents |
+| **Architecture** | Microservices, REST, GraphQL, event-driven |
+| **Messaging** | RabbitMQ |
+| **Cloud & DevOps** | Azure, AWS, Docker, GitHub Actions |
+| **Databases** | SQL Server, PostgreSQL, MongoDB, Redis |
 
 ### 📊 Skills at a glance
 
