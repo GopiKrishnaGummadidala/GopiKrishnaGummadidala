@@ -73,6 +73,7 @@ I'm available for freelance and contract projects, remote or on-site in Hamburg.
 | [**angularJWT-DOTNET-Core**](https://github.com/GopiKrishnaGummadidala/angularJWT-DOTNET-Core) | Token-based auth with ASP.NET Core + Angular |
 | [**GroupChat**](https://github.com/GopiKrishnaGummadidala/GroupChat) | Group chat over RabbitMQ in C# |
 | [**ngxs-sample**](https://github.com/GopiKrishnaGummadidala/ngxs-sample) | CRUD with NgXS state management in Angular |
+| [**progressive-web-app**](https://github.com/GopiKrishnaGummadidala/progressive-web-app) | Installable, offline-capable Angular PWA with a service worker |
 | [**RxJs-Angular**](https://github.com/GopiKrishnaGummadidala/RxJs-Angular) | Building Angular apps the reactive way |
 | [**ReactExpressApp**](https://github.com/GopiKrishnaGummadidala/ReactExpressApp) | React + Redux client with an Express/MongoDB backend |
 
